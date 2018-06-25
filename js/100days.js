@@ -14,7 +14,7 @@ function initializePage() {
 	const map = new mapboxgl.Map({
 	    container: 'map', // container id
 	    style: 'mapbox://styles/mapbox/light-v9', // stylesheet location
-	    center: [-117.248512, 32.875605,], // starting position [lng, lat]
+	    center: [-122.416305, 37.792877], // starting position [lng, lat]
 	    zoom: 12 // starting zoom
 	});
 
